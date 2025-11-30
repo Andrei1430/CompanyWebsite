@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/Andrei1430/CompanyWebsite",
+  "homepage": "https://Andrei1430.github.io/CompanyWebsite/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
